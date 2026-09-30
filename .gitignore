@@ -1,0 +1,17 @@
+# macOS metadata and local editor settings
+.DS_Store
+.vscode/
+.vs/
+*.vcxproj.user
+*.suo
+
+# Visual Studio intermediate files
+/CG_HW2/x64/
+/CG_HW2/Debug/
+/CG_HW2/Release/
+
+# Generated executables and debug symbols; keep required runtime DLLs
+/x64/**/*.exe
+/x64/**/*.pdb
+
+# Do not ignore *.obj globally: TestModels_HW2 contains Wavefront models.
